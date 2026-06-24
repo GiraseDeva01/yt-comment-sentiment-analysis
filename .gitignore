@@ -1,0 +1,39 @@
+# Models & artifacts
+lgbm_model.pkl
+tfidf_vectorizer.pkl
+experiment_info.json
+
+# DVC cache
+.dvc/cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual env
+myenv/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Data
+/data/
+
+# Env
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
